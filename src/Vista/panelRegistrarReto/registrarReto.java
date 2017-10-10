@@ -23,7 +23,7 @@ public class registrarReto extends JPanel{
     
         this.setBackground(Color.red);
         this.setLayout(null);
-        this.setBorder(new EmptyBorder(20, 10, 20, 10));
+        this.setBorder(new EmptyBorder(20, 10, 20, 20));
         
     }
     
